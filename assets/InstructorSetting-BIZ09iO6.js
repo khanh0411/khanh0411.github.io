@@ -1,0 +1,1 @@
+import{_ as e,i as n,w as r,d as s,o as c,g as a}from"./index-Ct7bBCdm.js";const u={};function _(f,t){const o=s("InstructorLayout");return c(),n(o,null,{default:r(()=>t[0]||(t[0]=[a(" Instructor Setting ")])),_:1})}const l=e(u,[["render",_]]);export{l as default};

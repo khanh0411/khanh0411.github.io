@@ -1,0 +1,1 @@
+import{M as t}from"./MyCouresView-BFuFN_Xg.js";import{i as r,w as o,o as a,g as s}from"./index-Ct7bBCdm.js";const _={__name:"ArchivedView",setup(i){return(n,e)=>(a(),r(t,null,{default:o(()=>e[0]||(e[0]=[s(" 4 ")])),_:1}))}};export{_ as default};
