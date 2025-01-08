@@ -1,1 +1,0 @@
-import{P as e}from"./ProfileView-C4tTvGuC.js";import{i as o,w as a,o as r,g as n}from"./index-Ct7bBCdm.js";const l={__name:"PaymentInformationView",setup(i){return(m,t)=>(r(),o(e,null,{default:a(()=>t[0]||(t[0]=[n(" Payment Information Loading ..... ")])),_:1}))}};export{l as default};

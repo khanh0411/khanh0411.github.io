@@ -1,1 +1,0 @@
-import{M as t}from"./MyCouresView-BFuFN_Xg.js";import{i as o,w as r,o as s,g as a}from"./index-Ct7bBCdm.js";const u={__name:"WishlistView",setup(i){return(l,e)=>(s(),o(t,null,{default:r(()=>e[0]||(e[0]=[a(" 3 ")])),_:1}))}};export{u as default};
